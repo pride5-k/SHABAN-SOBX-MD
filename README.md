@@ -107,7 +107,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 --------------
 
-`✰`✰`✰`✰`✰`✰`✰`✠`✰`✰`✰`✰`✰`✰`
+`✰`✰`✰`✰`✰`✰`✰`✠`✰`✰`✰`✰`✰`✰
 
 
 
@@ -122,24 +122,14 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 ----------
 
 <p align="center">
-<a href="https://webpair-mega-1-7m6u.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://webpair-mega-1-7m6u.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=heroku"></a>
 <p/>
 
 ----------
 
 ----------
 
-<p align="center">
-<a href="https://express-pairing-code2-1-hgi2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
 ----------
-
-----------
-
-<p align="center">
-<a href="https://web-pair-1dha.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-3:-black?style=for-the-badge&logo=render"></a>
-<p/>
 
 ----------
  
