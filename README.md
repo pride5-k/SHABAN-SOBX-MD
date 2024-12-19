@@ -261,7 +261,7 @@ jobs:
 
 ------------
 
-![license](https://img.shields.io/github/license/MRSHABAN/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/SILENTLOVER40/SILENT-SOBX-MD?color=green&label=License&style=plastic)
 
 ----------
 
