@@ -107,20 +107,13 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 --------------
 
-`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠
-
-### <br> ❖ DEPLOY AND SESSION METHOD ❖
+`✰`✰`✰`✰`✰`✰`✰`✠`✰`✰`✰`✰`✰`✰`✰`✰`✰`
 
 <br>
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
-
 -------------
 
-<p align="center">
-   <a>
-
-
+<
 ### <br>    ❖ SESSION_ID ❖
 
 
