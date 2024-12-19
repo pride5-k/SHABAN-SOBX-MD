@@ -62,7 +62,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 [![FORK SHABAN-SOBX-MD](https://img.shields.io/badge/FORK%20-SHABAN%20SOBX%20MD-white)](https://github.com/MRSHABAN/SHABAN-SOBX-MD/fork)
 
-`𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓𓅓`
+`❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁`
 
 ---------------
 
