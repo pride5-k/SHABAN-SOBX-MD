@@ -1,6 +1,6 @@
 {
-  "name": "SHABAN-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀsʜᴀʙᴀɴ",
+  "name": "MUZAMIL-PRINCE-MD",
+  "description": " "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴜᴢᴀᴍɪʟ ᴘʀɪɴᴄᴇ",
   "logo": "https://i.imgur.com/VSVRZsX.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY MRSHABAN"
+      "value": "POWERED BY MUZAMIL PRINCE"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sʜᴀʙᴀɴ-sσвx-мᴅ"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ᴍᴜᴢᴀᴍɪʟ-ᴘʀɪɴᴄᴇ-мᴅ"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
