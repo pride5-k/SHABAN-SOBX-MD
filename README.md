@@ -133,29 +133,29 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 ----------
  
-### <br>   ❖ DEPLOY_HEROKU ❖
+### <br>   ✫ DEPLOY_HEROKU ✫
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY SHABAN-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN/SHABAN-SOBX-MD)
 
 ----------
 
-### <br>    ❖ DEPLOY_REPLIT ❖
+### <br>    ✫ DEPLOY_REPLIT ✫
 
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SILENT-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
+`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SHABAN-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/MRSHABAN/SHABAN-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
-### <br>   ❖ DEPLOY_KOYEB ❖
+### <br>   ✫ DEPLOY_KOYEB ✫
 
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`۞ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SHABAN-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ۞`
 
 ---------
 
@@ -163,9 +163,9 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 ------------
 
-### <br>  ❖ DEPLOY_RAILWAY ❖
+### <br>  ✫ DEPLOY_RAILWAY ✫
 
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`✪ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SHABAN-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✪`
 
 --------
 
@@ -173,28 +173,28 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 ---------------
 
-### <br> ❖ MORE DEPLOY METHOD ❖
+### <br> 𖣘 MORE DEPLOY METHOD 𖣘
 
 --------
-### <br>   ❖ DEPLOY_GLITCH ❖
+### <br>   ߷ DEPLOY_GLITCH ߷
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
 --------
 
-### <br>   ❖ DEPLOY_CODESPACE ❖
+### <br>   ☠︎︎ DEPLOY_CODESPACE ☠︎︎
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 --------
 
-### <br>   ❖ DEPLOY_RENDER ❖
+### <br>   ☀︎︎ DEPLOY_RENDER ☀︎︎
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
 
-### <br>   ❖ DEPLOY_WORKFLOWS ❖
+### <br>  ☺︎︎ DEPLOY_WORKFLOWS ☺︎︎
 ```
 name: Node.js CI
 
@@ -233,7 +233,7 @@ jobs:
 
 -----------
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`😍 HOW TO DEPLOY SILENT-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 😍`
 
 -------------
 
