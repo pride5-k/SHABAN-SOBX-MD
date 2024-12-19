@@ -91,7 +91,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 -----------    
 
-`♡︎ IF YOU WANT MORE ABOUT SILENT-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ♡︎`
+`♡︎ IF YOU WANT MORE ABOUT SHABAN-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ♡︎`
 
 ---------
 
@@ -233,7 +233,7 @@ jobs:
 
 -----------
 
-`😍 HOW TO DEPLOY SILENT-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 😍`
+`😍 HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 😍`
 
 -------------
 
@@ -244,7 +244,7 @@ jobs:
 
 -------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
 
 ------------
 
